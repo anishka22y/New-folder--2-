@@ -1,0 +1,223 @@
+.android-large-1-child {
+    position: absolute;
+    top: 250px;
+    left: 441px;
+    border-radius: 10px;
+    width: 619px;
+    height: 556px;
+    background-color: #fff;
+    align-items: center;
+  }
+  body {
+    margin: 0;
+    line-height: normal;
+    background-color: rgb(225, 0, 255);
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-13xl: 32px;
+    --font-size-5xl: 24px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-orange: #ffb803;
+  
+    /* border radiuses */
+    --br-8xs: 5px;
+  }
+  
+  .android-large-1-item {
+    top: 371px;
+    left: 572px;
+    background-color: #52f418;
+    height: 143px;
+    text-align: center;
+  }
+  .green{
+    text-align: center;
+    margin-left: 45px;
+  }
+  
+  
+  .android-large-1-child1,
+  .android-large-1-inner,
+  .android-large-1-item,
+  .rectangle-div {
+    position: absolute;
+    border-radius: var(--br-8xs);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 166px;
+  }
+  .android-large-1-inner {
+    top: 369px;
+    left: 766px;
+    background-color: #2598eb;
+    height: 145px;
+    text-align: center;
+  }
+  .android-large-1-child1,
+  .rectangle-div {
+    top: 541px;
+    height: 143px;
+  }
+  .rectangle-div {
+    left: 572px;
+    background-color: #ff0000;
+  }
+  .android-large-1-child1 {
+    left: 768px;
+    background-color: var(--color-orange);
+  }
+  .color-of-deception {
+    top: 260px;
+    left: calc(50% - 100px);
+    font-size: var(--font-size-13xl);
+    color: var(--color-black);
+    width: 289px;
+    height: 36px;
+    margin-left: 70px;
+  }
+  .choose-the-color,
+  .color-of-deception,
+  .how-to-play {
+    position: absolute;
+    display: inline-block;
+  }
+  .choose-the-color {
+    top: 746px;
+    left: 573px;
+    font-size: 20px;
+    color: var(--color-black);
+    width: 557px;
+    height: 32px;
+  }
+  .how-to-play {
+    top: 195px;
+    left: calc(50% - 64px);
+    font-size: var(--font-size-13xl);
+    width: 217px;
+    height: 42px;
+    align-items: center;
+    margin-left: 70px;
+  }
+  .green {
+    position: absolute;
+    top: calc(50% - 89px);
+    left: calc(50% - 102px);
+    width: 71px;
+    height: 25px;
+    
+  }
+  .blue,
+  .green,
+  .red {
+    display: inline-block;
+  }
+  .blue {
+    position: absolute;
+    top: calc(50% - 87px);
+    left: calc(50% + 106px);
+    width: 56px;
+    height: 23px;
+    
+  }
+  .blue{
+    text-align: center;
+    margin-left: 42px;
+    margin-right: 45px;
+  }
+  .red {
+    top: 592px;
+    left: 630px;
+    width: 47px;
+    height: 30px;
+  }
+  .black,
+  .icon,
+  .red {
+    position: absolute;
+  }
+  .black {
+    top: 594px;
+    left: 822px;
+    display: inline-block;
+    width: 65px;
+    height: 28px;
+    background-color: #ffb803;
+  }
+  .icon {
+    top: 635px;
+    left: 847px;
+    width: 129.74px;
+    height: 117.17px;
+    object-fit: cover;
+  }
+  .frame-div {
+    position: absolute;
+    top: 840px;
+    left: 729px;
+    width: 4px;
+    height: 19px;
+    overflow: hidden;
+  }
+  
+  
+  .container{
+    font-size: xx-large;
+    color: white;
+    text-decoration:dotted;
+    text-align: center;
+  }
+  .start-wrapper {
+    cursor: pointer;
+    border: 1px solid var(--color-black);
+    padding: 6px 88px;
+    background-color: var(--color-orange);
+    position: absolute;
+    top: 811px;
+    left: calc(50% - 186px);
+    border-radius: var(--br-8xs);
+    box-sizing: border-box;
+    width: 461px;
+    height: 69px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 35px;
+  }
+  .android-large-1-child2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #00f0ff;
+    width: 1440px;
+    height: 45px;
+  }
+  .training {
+    position: absolute;
+    top: 3px;
+    left: calc(50% - 63px);
+    font-size: var(--font-size-13xl);
+    align-items: center;
+  }
+  .android-large-1 {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.68);
+    box-shadow: 0 4px 29px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  
